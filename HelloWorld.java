@@ -1,4 +1,4 @@
 public class HelloWorld {
   private String name;
-  private String subName;
+  private String myName;
   }
